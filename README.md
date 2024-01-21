@@ -9,7 +9,9 @@ Sentiment analysis in text project for Data Mining Master course (2023-2024)
 
   Additionally, Jupyter Notebook needs to be downloaded via cmd, using “pip install jupyter notebook”. Furthermore, we can launch the application using “python -m notebook”.
   
-  The “ipynb” file can be imported into the notebook, where we can find the runnable code. The dataset can be found under the following Github: https://github.com/katakonst/sentiment-analysis-tensorflow/tree/master/datasets.
+  The “ipynb” file can be imported into the notebook, where we can find the runnable code. The dataset can be found under the following Github: https://github.com/katakonst/sentiment-analysis-tensorflow/tree/master/datasets. The dataset needs to be downloaded from this repository, and unzipped, the path to the folder needing to be added in the first cell. 
+  ![image](https://github.com/Andra-chan/Data-Mining/assets/80649212/c1c69ee8-04bb-449a-8387-19876c2dec9a)
+
   
   Every cell in the notebook needs to be executed in order to see the results. The following libraries need to be installed in order to have no errors when running the code:
 -	pip install pandas
