@@ -23,4 +23,5 @@ Sentiment analysis in text project for Data Mining Master course (2023-2024)
 -	pip install tensorflow
 
 After these commands have been run, we can execute the cells, in order, from top to bottom. 
+
 Note: The Neural Network model training takes approximately 20-30 minutes. :)
